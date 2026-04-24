@@ -25,3 +25,4 @@ Added comments to explain the code
 - Used in GPS navigation
 - Used in AI pathfinding
 - Used in network routing
+Added applications section in README
