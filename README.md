@@ -21,3 +21,7 @@ Run app.py using Python
 BFS Route: ['Home', 'Market', 'Hospital']
 DFS Route: ['Home', 'School', 'Playground', 'Hospital']
 Added comments to explain the code
+## Applications
+- Used in GPS navigation
+- Used in AI pathfinding
+- Used in network routing
