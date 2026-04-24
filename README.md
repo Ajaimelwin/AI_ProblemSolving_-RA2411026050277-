@@ -1,2 +1,22 @@
 # AI_ProblemSolving_-RA2411026050277-
 AI Problem Solving Assignment
+# Smart Navigation System (BFS & DFS)
+
+## Description
+This project simulates navigation between locations using graph search algorithms.
+
+## Algorithms
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+
+## Features
+- Uses a city-based map
+- BFS finds shortest route
+- DFS explores alternative paths
+
+## How to Run
+Run app.py using Python
+
+## Sample Output
+BFS Route: ['Home', 'Market', 'Hospital']
+DFS Route: ['Home', 'School', 'Playground', 'Hospital']
