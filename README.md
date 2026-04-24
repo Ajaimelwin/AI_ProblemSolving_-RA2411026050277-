@@ -20,3 +20,4 @@ Run app.py using Python
 ## Sample Output
 BFS Route: ['Home', 'Market', 'Hospital']
 DFS Route: ['Home', 'School', 'Playground', 'Hospital']
+Added comments to explain the code
